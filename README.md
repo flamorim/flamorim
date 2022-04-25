@@ -1,16 +1,25 @@
-### Hi there 👋
+Hello!
 
-<!--
-**flamorim/flamorim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Engineer that after 25 years working on networks and telecom (Nokia, Cisco, Embratel), that now is getting enabled to data science and artificial inteligence.
 
-Here are some ideas to get you started:
+Currently completing "Business Intelligence Master" MBA, focusing on Data Science and Artificial Intelligence, at PUC-RIO.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Besides that, I'm taking several courses at Kaggle, Stanford and talks.
+
+
+
+
+<div> 
+  More details abouy my career are available at    
+  <a href="https://www.linkedin.com/in/flamorim" target="_blank"> linkedin </a> 
+ <p>
+ <p>
+ <p>
+</div>
+
+<div align="center">
+  <p>
+  <p>
+  <a href="https://github.com/flamorim">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flamorim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
