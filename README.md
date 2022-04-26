@@ -1,6 +1,6 @@
 Hello!
 
-I'm an Engineer that after 25 years working on networks and telecom (Nokia, Cisco, Embratel), that now is getting enabled to data science and artificial inteligence.
+I'm an Engineer that, after 25 years working on networks and telecom (Nokia, Cisco, Embratel), decided to move to data science and artificial intelligence areas.
 
 Currently completing "Business Intelligence Master" MBA, focusing on Data Science and Artificial Intelligence, at PUC-RIO.
 
