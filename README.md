@@ -1,12 +1,19 @@
-Hello!
+Updates in my carreer!
+
+First step done: Acomplished MBA, now pursuing a master's degree at PUC-Rio and working at ICA as specialist in artificial intelligence. 
+<p>
+<p>
+<p>
+<div>
+One year ago...:
 
 I'm an Engineer that, after 25 years working on networks and telecom (Nokia, Cisco, Embratel), decided to move to data science and artificial intelligence areas.
 
 Currently completing "Business Intelligence Master" MBA, focusing on Data Science and Artificial Intelligence, at PUC-RIO.
 
 Besides that, I'm taking several courses at Kaggle, Stanford and talks.
-
-
+<p>
+</div>
 
 
 <div> 
